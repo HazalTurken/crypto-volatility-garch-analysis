@@ -32,24 +32,14 @@ This project provides a comparative risk and volatility analysis of **Bitcoin (B
 - Ethereum offers higher return potential but significantly higher risk
 - Risk models assuming normality underestimate crypto tail risk
 - GARCH models are effective for crypto volatility forecasting
-  
 
+  
 ## Tools & Libraries
 - Python
 - pandas, numpy
 - matplotlib, seaborn
 - scipy
 - arch (GARCH modeling)
-
-
-## Project Structure
-├── data/
-├── notebooks/
-│ └── crypto_volatility_analysis.ipynb
-├── outputs/
-│ └── figures/
-├── README.md
-└── requirements.txt
 
 
 ## Author
